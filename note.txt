@@ -1,0 +1,12 @@
+/* Faq Title */
+
+Frequently Asked Question
+
+- How do I upgrade?
+- How do I Change my account email address?
+- How does billing work?
+- How do I Contact support?
+
+/* Faq Desc */
+
+- Lorem Ipsum is simply dummy text of the printing and typesetting industry.
